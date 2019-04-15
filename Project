@@ -1,0 +1,9 @@
+#include<iostream.com>
+#include<conio.com>
+void main()
+{
+clrscr();
+{ 
+This is a dummy code
+}
+}
